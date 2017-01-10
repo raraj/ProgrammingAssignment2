@@ -3,6 +3,7 @@
 
 ## Write a short comment describing this function
 ## This function creates a special "matrix" object that can cache its inverse
+##Week 3 Assignment; week beginning January 9, 2017; GitHub user: raraj
 
 makeCacheMatrix <- function(x = matrix()) {
     inv <- NULL                             ## initialize inv as NULL; will hold value of matrix inverse 
